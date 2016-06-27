@@ -1,2 +1,0 @@
-# MyBlog
-My Blog
