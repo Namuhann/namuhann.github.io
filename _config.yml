@@ -3,10 +3,10 @@ title: Namuhann Blog
 SEOTitle: 娜木汗的博客 | Namuhann Blog
 header-img: img/home-bg.jpg
 email: namuhann@gmail.com
-description: ""
+description: "仰望星空 脚踏实地"
 keyword: ""
 url: "http://namuhann.github.io"              # your host, for absolute URL
-baseurl: "/namuhannblog"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/namuhann.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
