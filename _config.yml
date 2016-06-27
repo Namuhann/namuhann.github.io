@@ -1,21 +1,21 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: Namuhann Blog
+SEOTitle: 娜木汗的博客 | Namuhann Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: namuhann@gmail.com
 description: ""
 keyword: ""
-url: "http://huangxuan.me"              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "http://namuhann.github.io"              # your host, for absolute URL
+baseurl: "/namuhannblog"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
 weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-#twitter_username:  huxpro
+zhihu_username:     namuhann
+github_username:    namuhann
+#twitter_username:  
 facebook_username:  huxpro
 
 
@@ -68,7 +68,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
+sidebar-about-description: "想就去做，做了就坚持，坚持了就不后悔。"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
