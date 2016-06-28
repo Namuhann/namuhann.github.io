@@ -50,7 +50,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: namuhann
+duoshuo_username: Namuhann
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -82,10 +82,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "asqbtcupid",
+        title: "asqbtcupid - 这里有你喜欢的Lua热更新",
         href: "https://github.com/asqbtcupid"
-    },{
-        title: "Foo",
-        href: "#"
     }
 ]
