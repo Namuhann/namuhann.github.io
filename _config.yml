@@ -6,7 +6,7 @@ email: namuhann@gmail.com
 description: "仰望星空 脚踏实地"
 keyword: ""
 url: "http://namuhann.github.io"              # your host, for absolute URL
-baseurl: "/namuhann.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
