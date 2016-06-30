@@ -2,11 +2,11 @@
 layout:     post
 title:      "Dribs and Drabs for PhotoShop"
 subtitle:   "前端开发中的PS应用笔记整理"
-date:       2016-06-30 14:03:00
+date:       2016-06-30
 author:     "Namuhann"
 header-img: "img/post-bg-ps.jpg"
 tags:
-    - 前端开发 
+    - 前端开发
     - PhotoShop
 ---
 
