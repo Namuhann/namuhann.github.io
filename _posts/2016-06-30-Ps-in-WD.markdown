@@ -1,14 +1,15 @@
 ---
 layout:     post
 title:      "前端开发中的PS应用"
-subtitle:   " \"PhotoShop in Web Developing\""
+subtitle:   " \"Dribs and Drabs for PhotoShop\""
 date:       2016-06-30 14:03:00
 author:     "Namuhann"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-ps.jpg"
 tags:
     - 前端开发 
     - PhotoShop
 ---
+
 
 > “PhotoShop之九牛一毛”
 
